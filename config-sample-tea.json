@@ -1,0 +1,12 @@
+{
+    "page_title": "多模型对比探究 - 茶叶品质鉴别",
+    "title": "🍵 从\"老茶农\"到\"AI鉴茶\"：四大算法同台品评茶叶品质",
+    "caption": "同一份茶叶样本，四种AI算法分别鉴定——看谁品茶最准、谁最容易「看走眼」☕",
+    "scene_name": "乡村振兴·茶叶品质AI鉴别",
+    "feature_x": "叶底匀整度",
+    "feature_y": "茶汤透亮度",
+    "positive_label": "优质茶",
+    "negative_label": "劣质茶",
+    "sample_img": "assets/tea.png",
+    "seal_img": "assets/seal.png"
+}

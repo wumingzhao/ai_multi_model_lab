@@ -1,0 +1,12 @@
+{
+  "page_title": "多模型对比探究 - 水稻病害诊断",
+  "title": "🌾 从\"看叶识病\"到\"AI慧眼\"：四大算法同台诊断水稻病害",
+  "caption": "同一份水稻样本，四种AI算法分别诊断——看谁识别病害更准、谁先「看走眼」🌱",
+  "scene_name": "乡村振兴·水稻稻瘟病智能检测",
+  "feature_x": "叶片病斑密度",
+  "feature_y": "叶绿素含量",
+  "positive_label": "健康稻株",
+  "negative_label": "染病稻株",
+  "sample_img": "assets/crop.png",
+  "seal_img": "assets/seal.png"
+}
