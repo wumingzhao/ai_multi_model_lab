@@ -1,0 +1,18 @@
+{
+    "page_title": "多模型对比探究 - 荔枝品质分级",
+    "title": "🍑 从\"凭眼力\"到\"AI分级\"：四大算法同台评比水果品质",
+    "caption": "同一颗荔枝，四种AI算法分别打分——看谁分级更准、谁最容易「看走眼」🍒",
+    "scene_name": "乡村振兴·荔枝品质AI分级",
+    "feature_x": "果皮着色均匀度",
+    "feature_y": "果径大小",
+    "positive_label": "一级果",
+    "negative_label": "次级果",
+    "sample_img": "assets/lichi.png",
+    "seal_img": "assets/seal.png",
+    "llm": {
+        "provider": "siliconflow",
+        "api_url": "https://api.siliconflow.cn/v1",
+        "api_key": "",
+        "model": "Qwen/Qwen2.5-7B-Instruct"
+    }
+}

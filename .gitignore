@@ -25,5 +25,5 @@ Thumbs.db
 *.avi
 *.mov
 
-# 运行时配置（使用 config-sample-*.json 作为模板）
-config.json
+# 运行时配置模板保留
+config.local.json
