@@ -77,12 +77,24 @@
 
 ## 🚀 快速开始
 
-### 环境要求
+### 🌐 在线体验（无需安装）
+
+直接打开 Streamlit Cloud 部署的在线版本即可使用，无需任何安装配置：
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aimultimodellab-h8xoktgasa2zvxvxqd4hyx.streamlit.app/)
+
+👉 https://aimultimodellab-h8xoktgasa2zvxvxqd4hyx.streamlit.app/
+
+> AI 解读和问答功能需自行在侧边栏配置 API Key（仅保存在浏览器会话中，不会上传）。
+
+### 💻 本地运行
+
+#### 环境要求
 
 - Python 3.9+
 - pip
 
-### 安装
+#### 安装
 
 ```bash
 # 克隆仓库
